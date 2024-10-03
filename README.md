@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**bogdy9912/bogdy9912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 On my profile, you’ll find three main types of projects:
 
-Here are some ideas to get you started:
+- **Mobile**:
+  - A bunch of **Flutter** projects, some were just for fun, and others started as potential startup ideas (but ended up being fun projects too).
+  - A few **React Native** projects (I briefly strayed from Flutter to try out the competition).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Web**:
+  - Mostly **React**, around 10 projects, all made for fun and experimentation.
+
+- **Blockchain**:
+  - Plenty of **Solidity** work, especially focusing on security. You’ll see a lot of forks here.
+
+👯 I’m looking to collaborate on products that genuinely improve people’s lives!
