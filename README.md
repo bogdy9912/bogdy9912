@@ -7,7 +7,7 @@
   - A few **React Native** projects (I briefly strayed from Flutter to try out the competition).
 
 - **Web**:
-  - Mostly **React**, around 10 projects, all made for fun and experimentation.
+  - Mostly **React**, over 10 projects, all made for fun and experimentation.
 
 - **Blockchain**:
   - Plenty of **Solidity** work, especially focusing on security. You’ll see a lot of forks here.
